@@ -6,6 +6,12 @@ This project analyzes superstore sales data to identify sales trend, top-perform
 
  the aim of this project is to  generate  insights that can help improve business performance
 
+ ### Dashboard preview
+ 
+  [Sales Dashboard](Dashboard-image.pgn)
+
+  [View the Interactive Dashboard](https://public.tableau.com/app/profile/qali.nur/viz/book3-_17917873587520/Dashboard1)
+
 ### Business questions
  
  This project answers the following questions
