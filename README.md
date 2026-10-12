@@ -10,8 +10,9 @@ This project analyzes superstore sales data to identify sales trend, top-perform
  
   [Sales Dashboard](Dashboard-image.pgn)
 
-  [View the Interactive Dashboard](https://public.tableau.com/app/profile/qali.nur/viz/book3-_17917873587520/Dashboard1)
+[View the Interactive Dashboard](https://public.tableau.com/app/profile/qali.nur/viz/Salesdashboard_17918237209080/Dashboard1)
 
+ 
 ### Business questions
  
  This project answers the following questions
@@ -42,7 +43,7 @@ The analysis reveal the following findings:
 2. Region west recorded the highest sales ,approximately $0.73 Million and profit of $108,418  across all regions
 3. Canon imageCLASS 2200 Advanced Copier was identified as best performing product
 4. Technology category recorded the highest sales
-5. sales performance varies across months with December recording highest sales when monthly sales were aggregated. November recoded highest sales in 2014 and 2017 while December was highest performing month in 2015 and 2016
+5. sales performance varies across months with November recording highest sales when monthly sales were aggregated. 
 
 ### Recommendations
 
@@ -50,7 +51,7 @@ based on the findings the following recommendations are proposed
 - investigate the products and categories contributing most to the consumer segment sales and factors driving its performance and identify opportunities to maintain or grow this segment
 - investigate consumer segment and products driving sales in the west region and identify practices that could be adapted to improve other regions
 - investigate Canon imageCLASS 2200 Advanced Copier discount ,profitability and regional sales performance to understand factors contributing to its success and determine whether similar strategies could improve the performance of other products
-- investigate whether discount ,holidays or promotions  contributed to higher sales in December and use the findings to support marketing strategies during peak sales periods
+- investigate whether discount ,holidays or promotions  contributed to higher sales in November and use the findings to support marketing strategies during peak sales periods
 
 
 
